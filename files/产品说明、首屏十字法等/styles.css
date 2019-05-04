@@ -271,3 +271,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u9_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:902px;
+  height:69px;
+}
+#u9 {
+  border-width:0px;
+  position:absolute;
+  left:72px;
+  top:8px;
+  width:902px;
+  height:69px;
+  font-size:28px;
+  color:#FFFFFF;
+}
+#u9_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:898px;
+  word-wrap:break-word;
+}
